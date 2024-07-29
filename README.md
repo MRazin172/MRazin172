@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
 
-- 🌱 I’m interested **AIML, Cyber Security**
+- 🌱 I’m interested in **AIML, Cyber Security**
 
 - 📫 How to reach me **muzzammilrazinpa@gmail.com**
 
