@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muzzammil Razin</h1>
 <h3 align="center">Embracing Innovation: Continuously Learning, Always Advancing</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence and Machine Learning**
+- 🔭 I’m currently pursuing Masters in **Artificial Intelligence and Machine Learning**
 
 - 🌱 I’m interested in **AIML, Data Science and Cyber Security**
 
